@@ -1,0 +1,6 @@
+name = input("Hi, Im python, what's your name!")
+print("Hello," + name + ", it's nice to meet you!")
+age = input ("How old are you?")
+print("That's cool I'm !")
+grade = input ("What grade are you in?")
+print("That,s cool!")
